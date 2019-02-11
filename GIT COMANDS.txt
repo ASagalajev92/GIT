@@ -1,0 +1,40 @@
+git init (можно добавить название папки ) 	- создание репозитория ;
+
+git status 	- статус гита 
+
+git add . 	- добавить фаилы в ГИТ
+
+git add * 	- добавить все на ГИТ 
+
+git commit -m " Komentarij k komitu " 	- добавить коммит 
+
+git branch 	- показать брэнчь
+
+git log - выдать то что было сделанно 
+
+git log -1  - выдать то что было сделанно последним 
+
+echo "Kakoito tekst" > kakoitofail.txt 		- создать файл с добавлением внутрь текста 
+
+
+
+echo >> kakoitofail.txt 	- перенести файл
+
+rm FileName 	- удалить фаил 
+
+dir 	- состав директории
+
+mkdir Nazvanijedirektorii 	- создать директорию
+
+rmdir FolderName 	- удалить директорию
+
+cd Nazvanijedirektorii 		- войти в директорию
+
+cd .. 		- возврат к предыдущей дериктории
+
+cls - очистить командную строку
+
+
+
+
+
